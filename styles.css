@@ -1,0 +1,19 @@
+*{
+  margin: 0;
+}
+.container{
+  display: flex;
+  height: 100vh;
+}
+
+.drag-bar{
+  padding-left: 4px;
+  padding-right: 4px;
+  cursor: col-resize;
+  background-color: lightgray;
+}
+.panel{
+  width: 25%;
+  min-width: 10px;
+  overflow: hidden;
+}
