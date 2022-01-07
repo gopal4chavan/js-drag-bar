@@ -8,4 +8,4 @@ that take following params
 **staticPane** => HTMLElement that should not get altered/should remain static  
 **staticPane_minWidth** => minimun width that the static pane will get collapsed to  
   
-**Live DEMO** https://js-drag-bar.herokuapp.com/index.html
+**Live DEMO** https://js-drag-bar.herokuapp.com/index.html  
