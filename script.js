@@ -11,7 +11,6 @@ const d4 = elemById('d4');
 
 const container = elemById('container');
 
-
 function dragBar_treat(leftPane, rightPane, dragBar, container, staticPane, staticPane_minWidth){
   dragBar.addEventListener("mousedown", dragBarMouseDownHandler);
   dragBar.addEventListener("mouseup", cleanupListener);
